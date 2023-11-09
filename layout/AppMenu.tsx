@@ -158,7 +158,7 @@ const AppMenu = () => {
                 {
                     label: 'View Source',
                     icon: 'pi pi-fw pi-search',
-                    url: '#',
+                    url: 'https://github.com/techbrain19/admin-react-master/',
                     target: '_blank'
                 }
             ]
